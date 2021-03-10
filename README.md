@@ -29,7 +29,12 @@ The models trained by us can be downloaded from [LET_BQ](https://pan.baidu.com/s
 ## Cite
 If you find our code is useful, please cite:
 ```
-waiting for update
+@article{lyu2021let,
+  title={LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching},
+  author={Lyu, Boer and Chen, Lu and Zhu, Su and Yu, Kai},
+  journal={arXiv preprint arXiv:2102.12671},
+  year={2021}
+}
 ```
 
 
