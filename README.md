@@ -3,7 +3,7 @@ Source code of AAAI2021 paper "LET: Linguistic Knowledge Enhanced Graph Transfor
 
 ## Requirements
 * `python`: 3.7.5
-* `mxnet-cu100`: 1.5.1
+* `mxnet-cu100`: 1.5.1.post0
 * `gluonnlp`: 0.8.0
 * `jieba`: 0.39
 * `thulac`: 0.2.1
