@@ -1,5 +1,5 @@
 # LET
-Source code of AAAI2021 paper "LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching".
+Source code of AAAI2021 paper "[LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching](https://ojs.aaai.org/index.php/AAAI/article/view/17592)".
 
 ## Requirements
 * `python`: 3.7.5
@@ -29,10 +29,13 @@ The models trained by us can be downloaded from [LET_BQ](https://pan.baidu.com/s
 ## Cite
 If you find our code is useful, please cite:
 ```
-@article{lyu2021let,
+@inproceedings{lyu2021let,
   title={LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching},
   author={Lyu, Boer and Chen, Lu and Zhu, Su and Yu, Kai},
-  journal={arXiv preprint arXiv:2102.12671},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={15},
+  pages={13498--13506},
   year={2021}
 }
 ```
